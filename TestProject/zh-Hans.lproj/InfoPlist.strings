@@ -1,0 +1,9 @@
+/* 
+  InfoPlist.strings
+  TestProject
+
+  Created by t on 2019/9/23.
+  Copyright © 2019 small. All rights reserved.
+*/
+
+CFBundleDisplayName = "中文";
